@@ -1,6 +1,6 @@
 {
   "name": "omikuji",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Get random value from Array.",
   "main": "dist/omikuji.js",
   "scripts": {
