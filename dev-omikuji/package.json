@@ -1,0 +1,21 @@
+{
+  "name": "omikuji",
+  "version": "0.0.1",
+  "description": "Get random value from Array.",
+  "main": "dist/omikuji.js",
+  "scripts": {
+    "build": "babel ./src/omikuji.js -o ./dist/omikuji.js"
+  },
+  "keywords": [
+    "frontend"
+  ],
+  "author": "Daisuke Iwao",
+  "license": "MIT",
+  "endines": {
+    "node": "*"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0"
+  }
+}
