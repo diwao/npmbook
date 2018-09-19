@@ -1,3 +1,4 @@
 dist/index.html
 src/
 .babelrc
+*.tgz
