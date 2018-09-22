@@ -10,10 +10,12 @@ var Omikuji = function () {
     this.items = array;
   }
 
+  // 設定した値をランダムで取得
+
+
   _createClass(Omikuji, [{
     key: "get",
     value: function get() {
-      // 設定した値をランダムで取得
       var rand = Math.floor(Math.random() * this.items.length);
       return this.items[rand];
     }

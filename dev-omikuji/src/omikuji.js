@@ -4,8 +4,8 @@ class Omikuji {
     this.items = array
   }
 
+  // 設定した値をランダムで取得
   get() {
-    // 設定した値をランダムで取得
     const rand = Math.floor(Math.random() * this.items.length)
     return this.items[rand]
   }
