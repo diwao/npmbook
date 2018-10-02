@@ -9,7 +9,7 @@
   "keywords": [
     "frontend"
   ],
-  "author": "Daisuke Iwao",
+  "author": "Taro Yamada",
   "license": "MIT",
   "engines": {
     "node": "*"
